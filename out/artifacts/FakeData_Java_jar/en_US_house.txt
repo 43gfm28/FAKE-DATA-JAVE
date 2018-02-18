@@ -1,0 +1,41 @@
+1 Apt.1
+32 Apt.2
+12 Apt.3
+43 Apt.4
+12 Apt.5
+5 Apt.6
+65 Apt.1
+32 
+13
+33
+43
+1 Apt.43
+1 Apt.65
+11 Apt.22
+11 Apt.1
+187 Apt.11
+12 Apt.45
+87 Apt.1
+9 Apt.23
+11 Apt.12
+10 Apt.100
+31 Apt.13
+32 Apt.21
+33 Apt.13
+34 Apt.41
+35 Apt.15
+36 Apt.18
+37 Apt.61
+38 Apt.17
+39 Apt.19
+40 Apt.31
+41 Apt.21
+42 Apt.134
+43 Apt.121
+44 Apt.211
+45 Apt.31
+46 Apt.111
+47 Apt.131
+48 Apt.121
+49 Apt.41
+50 Apt.44

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="FakeData_Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FakeData_Java_jar</output-path>
+    <root id="root">
+      <element id="archive" name="FakeData_Java.jar">
+        <element id="module-output" name="FakeData_Java" />
+      </element>
+    </root>
+  </artifact>
+</component>
